@@ -1,4 +1,10 @@
 Create server
+
+
+
+
+
+
 ![Create_Server_Output](https://github.com/user-attachments/assets/2ccdc292-2fa5-4686-b2de-f7add28e0569)
 
 Create Srver using npm
